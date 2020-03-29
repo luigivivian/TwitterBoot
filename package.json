@@ -1,0 +1,29 @@
+{
+  "name": "twitterboot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigivivian/TwitterBoot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luigivivian/TwitterBoot/issues"
+  },
+  "homepage": "https://github.com/luigivivian/TwitterBoot#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "got": "^10.4.0",
+    "node-cron": "^2.0.3",
+    "twitter": "^1.7.1",
+    "yql": "^1.0.2"
+  }
+}
