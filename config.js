@@ -4,7 +4,7 @@ var Twitter = require('twitter');
 var cliente = new Twitter({
     consumer_key: "",
     consumer_secret: "",
-    access_token_key: "-L0Zf7Xy1kCvss2ME42OM0zfioAHAPV",
+    access_token_key: "",
     access_token_secret: ""
 });
 
